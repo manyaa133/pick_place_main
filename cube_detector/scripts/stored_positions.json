@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "20260728_155617",
+    "image_path": "captures\\object_20260728_155617.jpg",
+    "pixel_center": {
+      "cx": 290.57082922978736,
+      "cy": 266.80178941057807
+    },
+    "area_ratio": 0.6081022135416667,
+    "arm_pose": {
+      "base": 0.13199999999999998,
+      "shoulder": 0.045,
+      "elbow": 2.22
+    }
+  },
+  {
+    "timestamp": "20260729_112900",
+    "image_path": "captures\\object_20260729_112900.jpg",
+    "pixel_center": {
+      "cx": 344.6071468344884,
+      "cy": 211.63755955592103
+    },
+    "area_ratio": 0.6273963419596355,
+    "arm_pose": {
+      "base": 0.144,
+      "shoulder": 0.105,
+      "elbow": 2.2560000000000002
+    }
+  }
+]
